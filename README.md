@@ -110,7 +110,7 @@ Features include:
 - Animations and smooth interactions
 - Vercel deployment
 
-🔗 **Repository:** https://github.com/zubairaliweb/Zubair-Portfolio
+🔗 **Repository:** https://github.com/zubairaliweb/Zubair_Portfolio.git
 
 ---
 
